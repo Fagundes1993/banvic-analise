@@ -57,4 +57,4 @@ As seguintes ferramentas foram utilizadas no projeto:
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato com [Seu Nome] via [Seu E-mail]. 
+Para dúvidas ou sugestões, entre em contato com Matheus Fagundes via mfbl93@gmail.com. 
